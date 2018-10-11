@@ -2,4 +2,4 @@
 Google drive cmd cli
 
 commandline cli for https://github.com/prasmussen/gdrive
-Usage: set root folder in yml, ruby gdrive.rb -h
+Usage: set root folder in id_ini.yml, ruby gdrive.rb -h
