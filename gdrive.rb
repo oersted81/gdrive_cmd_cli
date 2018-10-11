@@ -16,5 +16,5 @@ case arg
  end
 
 rescue Interrupt
-    puts "tak cus picus"
+    puts "see you"
 end
