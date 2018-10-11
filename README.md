@@ -1,5 +1,5 @@
 # gdrive_cmd_cli
-Google-Drive ruby command-line cli for https://github.com/prasmussen/gdrive
+Google-Drive ruby command-line ui for https://github.com/prasmussen/gdrive
 
 required gems: tty-table, slop, diffy, pastel
 
