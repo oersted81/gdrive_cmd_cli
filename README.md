@@ -1,7 +1,5 @@
 # gdrive_cmd_cli
-Google drive cmd cli
-
-commandline cli for https://github.com/prasmussen/gdrive
+Google drive command-line cli for https://github.com/prasmussen/gdrive
 
 required gems: tty-table, slop, diffy, pastel
 
